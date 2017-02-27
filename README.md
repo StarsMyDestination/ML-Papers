@@ -24,4 +24,6 @@ implemented in tensorflow source code: class BasicLSTMCell(RNNCell):...
 #### CNN, ReLU, max-pooling
 This is a starter!
 
-
+### 7.rnn.html
+#### Deep Learning Book chapter on RNNs.
+Advanced mathematical notation and scientific papers.
