@@ -26,4 +26,4 @@ This is a starter!
 
 ### 7.rnn.html
 #### Deep Learning Book chapter on RNNs.
-Advanced mathematical notation and scientific papers.
+Advanced mathematical notation and scientific papers.http://www.deeplearningbook.org/contents/rnn.html
