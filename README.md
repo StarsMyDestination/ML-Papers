@@ -27,3 +27,7 @@ This is a starter!
 ### 7.rnn.html
 #### Deep Learning Book chapter on RNNs.
 Advanced mathematical notation and scientific papers.http://www.deeplearningbook.org/contents/rnn.html
+
+### 8.A Global Geometric Framework for Nonlinear Dimensionality Reduction.pdf
+#### Isomap learning, Nonlinear Dimensionality Reduction. 
+http://web.mit.edu/cocosci/isomap/isomap.html
