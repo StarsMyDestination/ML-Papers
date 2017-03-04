@@ -36,3 +36,7 @@ Manifold learning(scikit, python): http://scikit-learn.org/stable/modules/manifo
 ### 9.Dropout: A Simple Way to Prevent Neural Networks from Overfitting.pdf
 #### dropout Pt.2, prevent overfitting
 
+### 10.Visualizing and Understanding Convolutional Networks
+#### CNN, Visualization, ImagNet
+
+
