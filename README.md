@@ -38,5 +38,8 @@ Manifold learning(scikit, python): http://scikit-learn.org/stable/modules/manifo
 
 ### 10.Visualizing and Understanding Convolutional Networks
 #### CNN, Visualization, ImagNet
+[udacity link(personal use)](https://classroom.udacity.com/nanodegrees/nd101/parts/2a9dba0b-28eb-4b0e-acfa-bdcf35680d90/modules/ca299d5f-35f6-4520-a2b0-74c6878008b3/lessons/2fd24529-215c-47b5-a644-2c23650493f6/concepts/05f91f07-6de6-4b6b-b989-6112802e09a4)
+
+
 
 
