@@ -30,4 +30,9 @@ Advanced mathematical notation and scientific papers.http://www.deeplearningbook
 
 ### 8.A Global Geometric Framework for Nonlinear Dimensionality Reduction.pdf
 #### Isomap learning, Nonlinear Dimensionality Reduction. 
-http://web.mit.edu/cocosci/isomap/isomap.html
+paper link: http://web.mit.edu/cocosci/isomap/isomap.html
+Manifold learning(scikit, python): http://scikit-learn.org/stable/modules/manifold.html
+
+### 9.Dropout: A Simple Way to Prevent Neural Networks from Overfitting.pdf
+#### dropout Pt.2, prevent overfitting
+
