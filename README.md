@@ -36,10 +36,20 @@ Manifold learning(scikit, python): http://scikit-learn.org/stable/modules/manifo
 ### 9.Dropout: A Simple Way to Prevent Neural Networks from Overfitting.pdf
 #### dropout Pt.2, prevent overfitting
 
-### 10.Visualizing and Understanding Convolutional Networks
+### 10.Visualizing and Understanding Convolutional Networks.pdf
 #### CNN, Visualization, ImagNet
 [udacity link(personal use)](https://classroom.udacity.com/nanodegrees/nd101/parts/2a9dba0b-28eb-4b0e-acfa-bdcf35680d90/modules/ca299d5f-35f6-4520-a2b0-74c6878008b3/lessons/2fd24529-215c-47b5-a644-2c23650493f6/concepts/05f91f07-6de6-4b6b-b989-6112802e09a4)
 
+### 11.Fractional Max-Pooling.pdf
+#### CIFAR-10 96.53% accuracy, CNN, Max-Pooling
+[Ranking link](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130)
 
 
+### 12.Striving for Simplicity: The All Convolutional Net.pdf
+#### CIFAR-10 95.59% accuracy, CNN
+[Ranking link](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130)
+
+### 13.	All you need is a good init.pdf
+#### CIFAR-10 94% accuracy, CNN, Init
+[Ranking link](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130)
 
