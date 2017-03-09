@@ -49,7 +49,10 @@ Manifold learning(scikit, python): http://scikit-learn.org/stable/modules/manifo
 #### CIFAR-10 95.59% accuracy, CNN
 [Ranking link](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130)
 
-### 13.	All you need is a good init.pdf
+### 13.All you need is a good init.pdf
 #### CIFAR-10 94% accuracy, CNN, Init
 [Ranking link](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#43494641522d3130)
 
+### 14.Rethinking the Inception Architecture for Computer Vision.pdf
+#### CNN Architecture, Tips
+[Cross Validated link](http://stats.stackexchange.com/questions/148139/rules-for-selecting-convolutional-neural-network-parameters)
