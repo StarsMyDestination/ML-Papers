@@ -56,3 +56,7 @@ Manifold learning(scikit, python): http://scikit-learn.org/stable/modules/manifo
 ### 14.Rethinking the Inception Architecture for Computer Vision.pdf
 #### CNN Architecture, Tips
 [Cross Validated link](http://stats.stackexchange.com/questions/148139/rules-for-selecting-convolutional-neural-network-parameters)
+
+### 15.15.SSD- Single Shot MultiBox Detector.pdf
+#### Object Detection, realtime CNN
+[github link(implemented in TF)](https://github.com/balancap/SDC-Vehicle-Detection)
