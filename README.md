@@ -57,6 +57,19 @@ Manifold learning(scikit, python): http://scikit-learn.org/stable/modules/manifo
 #### CNN Architecture, Tips
 [Cross Validated link](http://stats.stackexchange.com/questions/148139/rules-for-selecting-convolutional-neural-network-parameters)
 
-### 15.15.SSD- Single Shot MultiBox Detector.pdf
-#### Object Detection, realtime CNN
+### 15.SSD- Single Shot MultiBox Detector.pdf
+#### Realtime object Detection, CNN
 [github link(implemented in TF)](https://github.com/balancap/SDC-Vehicle-Detection)
+
+### 16.DSSD - Deconvolutional Single Shot Detector.pdf
+#### ^-^
+[demo](http://cs.unc.edu/~wliu/)
+
+### 17.Multi-View 3D Object Detection Network for Autonomous Driving.pdf
+#### 3D object detection, lidar, image, CNN, self-driving car
+[github](https://github.com/hengck23/didi-udacity-2017) [medium](https://medium.com/@hengcherkeng/part-1-didi-udacity-challenge-2017-car-and-pedestrian-detection-using-lidar-and-rgb-fff616fc63e8#.x9mavqle3)
+
+### 18.3D Object Proposals for Accurate Object Class Detection.pdf
+#### 3D object detection, stereo imagery, energy function, CNN, self-driving car
+
+
