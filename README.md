@@ -72,4 +72,6 @@ Manifold learning(scikit, python): http://scikit-learn.org/stable/modules/manifo
 ### 18.3D Object Proposals for Accurate Object Class Detection.pdf
 #### 3D object detection, stereo imagery, energy function, CNN, self-driving car
 
-
+### 19.YOLO9000- Better, Faster, Stronger.pdf
+#### Realtime object detection, YOLO
+[implemented in TF](https://github.com/thtrieu/darkflow)
