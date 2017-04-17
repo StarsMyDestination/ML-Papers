@@ -75,3 +75,15 @@ Manifold learning(scikit, python): http://scikit-learn.org/stable/modules/manifo
 ### 19.YOLO9000- Better, Faster, Stronger.pdf
 #### Realtime object detection, YOLO
 [implemented in TF](https://github.com/thtrieu/darkflow)
+
+### 20.Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+#### Fast-RCNN updated version, Realtime object detection, RPN
+[this csdn blog](http://blog.csdn.net/anxiaoxi45/article/details/46522155) and [this blog](http://lufo.me/2016/10/detection/) compare RPN and SSD
+
+### 21.Selective Search for Object Recognition
+#### selective search, region proposal
+[paper homepage](https://ivi.fnwi.uva.nl/isis/publications/bibtexbrowser.php?key=UijlingsIJCV2013&bib=all.bib), [this csdn blog](http://blog.csdn.net/surgewong/article/details/39316931) and [this](http://blog.csdn.net/charwing/article/details/27180421) and [this](http://blog.csdn.net/csyhhb/article/details/50425114)
+
+### 22.Multi-class Multi-object Tracking Using Changing Point Detection
+#### image, object tracking, real-time
+[kitti leaderboard](http://www.cvlibs.net/datasets/kitti/eval_tracking.php)
